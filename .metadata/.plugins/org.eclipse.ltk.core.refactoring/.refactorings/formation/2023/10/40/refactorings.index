@@ -1,0 +1,19 @@
+1696582418199	Encapsulate field 'idUser'
+1696582432759	Encapsulate field 'nom'
+1696582439512	Encapsulate field 'prenom'
+1696582445347	Encapsulate field 'email'
+1696582450185	Encapsulate field 'mdp'
+1696582456404	Encapsulate field 'role'
+1696582461441	Encapsulate field 'adresse'
+1696582467365	Encapsulate field 'codeAgent'
+1696586515221	Move compilation unit
+1696586519249	Move compilation unit
+1696586521631	Move compilation unit
+1696586524484	Move compilation unit
+1696586527203	Move compilation unit
+1696586529490	Move compilation unit
+1696586535320	Delete element
+1696586578192	Delete element
+1696586609158	Delete element
+1696586639945	Delete element
+1696595967663	Delete element
